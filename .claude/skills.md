@@ -1,0 +1,1 @@
+Using the Webshare skill from the US, Germany, and Japan (mobile and desktop), load my 10 campaign landing pages, screenshot the rendered ad slot, and verify the attribution pixels (GA4, Meta CAPI, TikTok) fire with the correct campaign IDs. Flag any geo-mismatches or missing tags.
