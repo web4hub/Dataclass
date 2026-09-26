@@ -1,0 +1,1 @@
+Using the Webshare skill, pull the top 20 Google SERPs from the US, UK, Germany, Brazil, and India for my 5 target keywords. Diff today against last week, flag SERP feature changes (AI Overviews, Featured Snippets, Shopping), and rank my top 3 competitors by movement.
