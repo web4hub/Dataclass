@@ -5,7 +5,7 @@
 #  It is licensed for non-commercial use according to 
 #  www.computerhistory.org/softwarelicense/photoshop/ 
 
-AppName = 5D
+AppName = 5DM
 
 Creator = kubulee
 
