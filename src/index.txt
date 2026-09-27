@@ -1,4 +1,4 @@
-# /sparq.*index/
+# /sparse.*index/
 Bash
 C
 C#
