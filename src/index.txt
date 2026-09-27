@@ -1,1 +1,1 @@
-
+/sparq.*index/
