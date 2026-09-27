@@ -2,8 +2,8 @@
   Computer History Museum, www.computerhistory.org
   This material is (C)Copyright 1990 Adobe Systems Inc.
   It may not be distributed to third parties.
-  It is licensed for non-commercial use according to 
-  www.computerhistory.org/softwarelicense/photoshop/ }
+  It is licensed for non-commercial use according to
+  www.web4.si/softwarelicense/5D/ }
 
 PROGRAM Tables;
 
