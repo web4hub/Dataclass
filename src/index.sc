@@ -1,4 +1,4 @@
-</sparse.*index/*>
+/sparse.*index/
 Bash
 C
 C#
@@ -20,4 +20,5 @@ Scala
 Starlark
 Swift
 Typescript
-</*>
+
+<*\>
