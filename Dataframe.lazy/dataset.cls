@@ -47,3 +47,7 @@ mq4
 m4a
 mm
 mmd
+sbs
+spf
+ptck
+pt
